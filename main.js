@@ -1,13 +1,4 @@
-
-// function myTimer() {
-//     const date = new Date();
-//     document.querySelector("h1").innerHTML = date.toLocaleTimeString();
-// };
-
-// setInterval(myTimer, 1000);
-
 //BUILD PROJECT BUT DON'T USE AVAILABLE FUNCTION, DONT USE SETINTERVAL TIMEOUT
-
 
 function displayClock () {
     const d = new Date();
