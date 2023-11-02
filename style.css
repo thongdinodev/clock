@@ -1,0 +1,12 @@
+
+body {
+    background-color: black;
+    padding: 0;
+}
+
+h1 {
+    color: rgb(0, 86, 243);
+    text-align: center;
+    font-size: 60px;
+    font-family: Orbitron;
+}
